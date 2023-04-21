@@ -1,0 +1,1 @@
+print(sorted(input('Nhập chuỗi:').split()))
